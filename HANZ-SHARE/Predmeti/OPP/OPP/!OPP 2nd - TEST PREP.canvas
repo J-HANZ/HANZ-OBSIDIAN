@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"42d581c204c0f1c6","type":"file","file":"Predmeti/OPP/OPP/OPP 3.2-S Prenos podatkov.md","x":276,"y":221,"width":400,"height":400},
+		{"id":"a3ed5bbce996355e","type":"text","text":"Glavni noti za ocenjevanje ","x":351,"y":-60,"width":250,"height":60},
+		{"id":"be8ba7e0a3af1913","type":"file","file":"Predmeti/OPP/OPP/OPP 3.1-S Topologije.md","x":-180,"y":221,"width":400,"height":400},
+		{"id":"6e600ba3c3150e57","type":"file","file":"Predmeti/OPP/OPP/OPP 3.3-S Prenostni stnadardi.md","x":800,"y":221,"width":400,"height":400}
+	],
+	"edges":[]
+}
