@@ -21,6 +21,15 @@ Določajo pravila komunikacije med napravami
 	1.              Fizične naprave         Elektronika predpisuje prenosni
 
 
+Aplikacijska: Plast, ki vsebuje aplikacije, prikaz informacij
+Predstavitev: Pretvori podatke v bin in naredi podatkovne strukute
+Seja: Vzpostavi povezave za prenos podatkov
+Prenos: Pripravi kanale za prenos podatkov
+Omrežje: Povezuje naprave medseboj (LAN... NETWORK)
+Podatkovna plast (data link): Preveri podatke za napake in jih zapakira v podatovne okvirje
+Fizična plast: Fizična oprema, predpisuje prenosni medij, hitrost, način zapisa.
+
+
 
 
 ### References:
