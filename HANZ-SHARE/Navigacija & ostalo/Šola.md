@@ -57,7 +57,7 @@ PREDMETI:
 	[[PSI 0 MAIN]]
 	[[OPP 0 MAIN]]
 	[[OPPp 0 Main]]
-	[[AVT 0 MAIN]]
+	[[!AVT 0 MAIN]]
 	[[REG 0 MAIN]]
 	[[EVN 0 MAIN]]
 OTHER:

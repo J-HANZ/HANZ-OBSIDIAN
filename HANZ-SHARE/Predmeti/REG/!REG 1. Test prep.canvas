@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"003d6fcedacd9441","type":"text","text":"REG 1. Test naloge","x":-153,"y":-165,"width":250,"height":60},
-		{"id":"b3feebfef53eda02","type":"text","text":"1. RC/RL vezja\n\tČasovni diagram (Uvh/t)\n2. Prenosni faktor (def., izračun shema)","x":-920,"y":-40,"width":447,"height":330}
-	],
-	"edges":[]
-}

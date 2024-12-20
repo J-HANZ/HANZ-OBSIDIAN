@@ -26,5 +26,5 @@ Tags: #AVT
 References:
 
 Linked mentions:
-MAIN [[AVT 0 MAIN]]
+MAIN [[!AVT 0 MAIN]]
 Next [[AVT 2 Osnovni pojmi]]

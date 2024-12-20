@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"968104edad223eb8","type":"text","text":"-Zapiski bodo na moodlu\n-Preverjanje bo na moodlu/stara preverjanja (če so)\n-Stare kontrolne iz učilnice UPR, Geslo: \"123UPR\" (glej naloge števci, časovniki, LAD, FBD-Logika)\n\n\tSnov za 2. Test:\n\t\t- Razumevanje LAD/FBD koda (Podobno kot 3. letnik Home I/O)\n\t\t- Stronja oprema, zgradba I/O modulov\n\t\t\tPS, CPU, DI, DO, AO\n\t\t-Struktura programov v Siemens krmilniku\n\t\t\tOB, FB, FC, DB\n\t\t-Programiranje krmilnih algoritmov FBD/LAD\n\t\t\tTimerji\n\t\t\tŠtevci\n\t\t\tOstali bloki: Primerjalniki, seštevalniki\t","x":-700,"y":-480,"width":680,"height":440,"color":"5"},
+		{"id":"0a5734d1d1ca2392","type":"text","text":"Primer:\nV okolju Siemens sprogramiraj sistem splakovanja stranišča.\nOprema je: Senzor, ki zazna uporabnika (I1.0) in elektronski ventil (Q0.0). Delovanje sporoča spodnji časovni diagram.","x":-600,"y":0,"width":381,"height":316}
+	],
+	"edges":[]
+}
